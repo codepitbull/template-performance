@@ -2,13 +2,13 @@ A small project comparing performance of different templating engines for a very
 
 Tested engines:
 
-(freemarker)[http://freemarker.org/]
+[freemarker](http://freemarker.org/)
 
-(mustache)[https://github.com/spullara/mustache.java]
+[mustache](https://github.com/spullara/mustache.java)
 
-(velocity)[http://velocity.apache.org/]
+[velocity](http://velocity.apache.org/)
 
-(StringTemplate)[http://www.stringtemplate.org/]
+[StringTemplate](http://www.stringtemplate.org/)
 
 
 _Please note: this test is done with ONLY OUR requirements in mind, your mileage may vary_
